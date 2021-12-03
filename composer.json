@@ -1,0 +1,21 @@
+{
+    "name": "idler8/laravel-jwt",
+    "description": "Simple and fast jwt class for laravel",
+    "type": "library",
+    "require": {
+        "lcobucci/jwt": "^4.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Idler8\\Laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "idler8",
+            "email": "code@idler8.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
